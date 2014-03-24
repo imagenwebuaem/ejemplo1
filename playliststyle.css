@@ -1,0 +1,28 @@
+#playlist{
+ margin-left: 10px;
+padding:0 10px 0 0;
+
+}
+
+.active a{
+	color:#cc0000;
+}
+
+li a:hover{
+text-decoration:none;
+color:#cc0000;
+}
+
+
+li {
+	color:#333;
+	list-style:none;
+}
+
+li  a{
+	color:#333;
+	
+}
+
+
+
